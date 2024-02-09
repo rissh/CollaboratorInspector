@@ -43,9 +43,9 @@ Collaborator Inspector is a collection of shell scripts designed to help you man
 
 This script expects the GitHub username and personal access token to be provided as environment variables (USERNAME and TOKEN, respectively). You can set these environment variables in your shell or directly before running the script. Here's how to run the script:
 
-    ```bash
-    ./script1.sh <repository_owner> <repository_name>
-    ```
+```bash
+./script1.sh <repository_owner> <repository_name>
+```
 
 ### Script 2: Hardcoded Token in Script
 
