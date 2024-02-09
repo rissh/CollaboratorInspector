@@ -20,11 +20,11 @@ This project consists of two shell scripts (`script1.sh` and `script2.sh`) that 
 
 This script expects the GitHub username and personal access token to be provided as environment variables (`username` and `token`, respectively). You can set these environment variables in your shell or directly before running the script. Here's how to run the script.
 
-    ```bash
-        export USERNAME=your_github_username
-        export TOKEN=your_personal_access_token
-        ./script1.sh <repository_owner> <repository_name>
-    ```
+```bash
+     export USERNAME=your_github_username
+     export TOKEN=your_personal_access_token
+     ./script1.sh <repository_owner> <repository_name>
+```
 
 Replace your_github_username and your_personal_access_token with your actual GitHub username and personal access token.
 
