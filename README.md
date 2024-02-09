@@ -78,3 +78,10 @@ Contributions to GitHub Collaborator Finder are welcome! If you'd like to contri
 6. Create a new pull request.
 
 Please make sure to follow the code of conduct and contribution guidelines in the project.
+
+## Author
+
+- [LinkedIn](https://www.linkedin.com/in/rishikesh-jagadale-331812207/)
+- [Github](https://github.com/rissh)
+
+🚀 Happy coding! 🚀

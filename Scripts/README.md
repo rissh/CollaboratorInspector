@@ -20,10 +20,11 @@ This project consists of two shell scripts (`script1.sh` and `script2.sh`) that 
 
 This script expects the GitHub username and personal access token to be provided as environment variables (`username` and `token`, respectively). You can set these environment variables in your shell or directly before running the script. Here's how to run the script.
 
-```bash
-export USERNAME=your_github_username
-export TOKEN=your_personal_access_token
-./script1.sh <repository_owner> <repository_name>
+    ```bash
+        export USERNAME=your_github_username
+        export TOKEN=your_personal_access_token
+        ./script1.sh <repository_owner> <repository_name>
+    ```
 
 Replace your_github_username and your_personal_access_token with your actual GitHub username and personal access token.
 
@@ -37,4 +38,5 @@ This script has the GitHub username and personal access token hardcoded directly
 2. Navigate to "Developer settings" > "Personal access tokens" > "Generate new token."
 3. Give your token a descriptive name, select the desired scopes (permissions), and click "Generate token."
 4. Copy the generated token and use it as described above.
-```
+
+🚀 Happy coding! 🚀
